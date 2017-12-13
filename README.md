@@ -1,0 +1,2 @@
+# johnny
+my first repository
